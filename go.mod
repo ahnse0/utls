@@ -1,4 +1,4 @@
-module github.com/bogdanfinn/utls
+module github.com/ahnse0/utls
 
 go 1.18
 
